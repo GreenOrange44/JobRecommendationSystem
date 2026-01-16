@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+pypdf
+python-dotenv
+apify-client
+mcp[cli]
