@@ -9,7 +9,7 @@ This project also includes a **Model Context Protocol (MCP)** server, allowing A
 * **Resume Parsing:** Extracts text from PDF resumes.
 * **AI Analysis:** Uses **Gemini 2.5 Flash Lite** to identify job titles, technical skills, and experience levels.
 * **Smart Search:** Converts resume data into optimized boolean search queries.
-* **Job Aggregation:** Fetches real-time job listings from Naukri, LinkedIn, and more using **Apify**.
+* **Job Aggregation:** Fetches real-time job listings from Naukri.com using **Apify**.
 * **MCP Support:** Exposes a `fetch_jobs` tool that can be integrated into AI agent workflows.
 * **Interactive UI:** A clean **Streamlit** dashboard for easy user interaction.
 
